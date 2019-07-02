@@ -1,0 +1,9 @@
+c:\users\usman\documents\visual studio 2013\Projects\CompilerFinalProject\CompilerFinalProject\bin\Debug\CompilerFinalProject.exe.config
+c:\users\usman\documents\visual studio 2013\Projects\CompilerFinalProject\CompilerFinalProject\bin\Debug\CompilerFinalProject.exe
+c:\users\usman\documents\visual studio 2013\Projects\CompilerFinalProject\CompilerFinalProject\bin\Debug\CompilerFinalProject.pdb
+c:\users\usman\documents\visual studio 2013\Projects\CompilerFinalProject\CompilerFinalProject\obj\Debug\CompilerFinalProject.csprojResolveAssemblyReference.cache
+c:\users\usman\documents\visual studio 2013\Projects\CompilerFinalProject\CompilerFinalProject\obj\Debug\CompilerFinalProject.Form1.resources
+c:\users\usman\documents\visual studio 2013\Projects\CompilerFinalProject\CompilerFinalProject\obj\Debug\CompilerFinalProject.Properties.Resources.resources
+c:\users\usman\documents\visual studio 2013\Projects\CompilerFinalProject\CompilerFinalProject\obj\Debug\CompilerFinalProject.csproj.GenerateResource.Cache
+c:\users\usman\documents\visual studio 2013\Projects\CompilerFinalProject\CompilerFinalProject\obj\Debug\CompilerFinalProject.exe
+c:\users\usman\documents\visual studio 2013\Projects\CompilerFinalProject\CompilerFinalProject\obj\Debug\CompilerFinalProject.pdb
